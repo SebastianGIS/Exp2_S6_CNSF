@@ -1,4 +1,4 @@
-name: CI/CD - Build, Push Docker Hub y Deploy en EC2
+name: CI/CD - Build, Push Docker Hub y Deploy en EC2 
 
 on:
   push:
